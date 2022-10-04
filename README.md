@@ -1,2 +1,7 @@
-# minion_speak
-Its is a fun app which translates english to minions language built using third party Api called funtranslation api
+# Minion Speak
+A fun translation app developed using vanillaJs convert from English language to Minion's banana language.
+
+# Technologies used:-
+1. Html
+2. CSS
+3. javaScript
